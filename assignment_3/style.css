@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons+Outlined");
+
+.main{
+    max-width: 275px;
+}
+.line-height{
+    line-height: 0px;
+}
+.foot{
+    display: inline;
+}
+.footer{
+    display: flex;
+    justify-content: space-between;
+}
